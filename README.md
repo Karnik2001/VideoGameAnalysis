@@ -5,8 +5,8 @@ Video games are a major asset in the entertainment industry for business growth.
 
 General Strategy of the Project
 
-1. Load the dataset
-2. Gather basic descriptive statistics
+1. Load the dataset.
+2. Conduct basic descriptive statistics.
 3. Determine the best sold platform and genre. Also, determine the highest rating throughout the year.
 4. Graph the platform, genre, and rating columns into bar charts.
 5. Conduct a correlation of the dataset to determine the strongest and weak relationship between two variables.
