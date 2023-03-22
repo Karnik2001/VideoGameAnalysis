@@ -17,3 +17,7 @@ General Strategy of the Project
 
 Conclusion:
 PS2 was the most sold platform in 2016 and the latest platforms were XboxOne and PS4. The video game companies need to implement a new business strategy to attract more customers into buying the latest platforms including reducing the cost one way or an other. The most popular genre of the video games were action and sports since these genres are the most fun to play. The video game companies would either have to sell less of the least popular genres or implement a new strategy to attract more customers into buying the least popular genres including why these genres are unique. The highest rating was the T rating which means the rest of the companies need to create new business models including new ideas to increase profits. Most of the sold video games are in North America and other countries around the world causing Europe and Japan to decrease their profit margin and revenue. Europe and Japan would have to come up with additional investments to hire more workers and come up with new ideas to increase trade.
+
+References:
+
+https://www.udemy.com/course/hello-python-data-science-exploratory-data-analysis-eda/
